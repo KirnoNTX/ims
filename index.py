@@ -1,5 +1,7 @@
-# MIT License
+#MIT License
 # Copyright (c) 2023 Kirno
+
+# -*- coding: utf-8 -*-
 
 # - - - - - - - - - - - - - - - - - - - # IMPORT # - - - - - - - - - - - - - - - - - - - #
 
