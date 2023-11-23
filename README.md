@@ -9,7 +9,7 @@ This is a simple command-line inventory management system written in Python. The
 - **Give Items:** Users can give items like swords, bows, and guns to the inventory.
 - **Withdraw Items:** Users can withdraw the last item added to the inventory.
 - **Export/Import:** The inventory can be exported to a save file and later imported to resume the inventory state.
-- **Username:**Users can have their username personalized to their image
+- **Username:** Users can have their username personalized to their image
 - **Debugging:** Provides debug information about the current state of the inventory.
 - **Reset:** Resets the inventory, clearing all items.
 
